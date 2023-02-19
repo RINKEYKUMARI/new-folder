@@ -1,0 +1,36 @@
+body{
+    background-color: cornsilk;
+    justify-content: center;
+    align-items: center;
+   
+
+   
+}
+.input{
+    width: 68%;
+    height: 65px;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: right;
+}
+.calculator-center{
+    text-align: center;
+    height: 500px;
+    margin-left: 65px;
+}
+::placeholder{
+    color:black;
+}
+.numpart{
+    padding: 2px;
+    width: 1050px;
+    margin: 3px;
+}
+.numbers{
+    width: 175px;
+    height: 60px;
+    border-radius: 10px;
+    font-size:xx-large;
+
+}
